@@ -1,6 +1,6 @@
 package com.learning.core.day1session1;
 
-public class D01P3_7 {
+public class D01P4_2 {
 	    public static void main(String[] args) {
 	        // Create the integer array with 18 elements
 	        int[] A = {3, 2, 4, 5, 6, 4, 5, 7, 3, 2, 3, 4, 7, 1, 2, 0, 0, 0};
